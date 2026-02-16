@@ -159,7 +159,7 @@ sh-5.1$ openstack volume type show powerflex
 | id                 | b7bff211-a6cd-435d-aa27-2187c3e46f68                  |
 | is_public          | True                                                  |
 | name               | powerflex                                             |
-| properties         | pool_name='PD1:SP1', volume_backend_name='powerflex ' |
+| properties         | pool_name='PD1:SP1', volume_backend_name='powerflex'  |
 | qos_specs_id       | None                                                  |
 +--------------------+-------------------------------------------------------+
 ```
